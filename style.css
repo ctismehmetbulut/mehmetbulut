@@ -5,6 +5,13 @@
     --font: 'Karla', sans-serif;
 }
 
+.custom-icon {
+    width: 1.5em;  /* Size similar to Font Awesome icons */
+    height: 1.5em; /* Maintain aspect ratio */
+    vertical-align: middle; /* Align it with the text */
+    display: inline;
+}
+
 html {
     /*FONT:*/   
     font-family: var(--font);
@@ -32,7 +39,7 @@ img {
     width: 130px;
     height: 130px;
     display: block;
-    margin: 20px auto;
+    margin: 10px auto;
     border-radius: 50%; /*round image*/
 }
 
@@ -63,7 +70,7 @@ a {
 
     display: block; /*each link takes a whole line*/
     margin: 10px;
-    padding: 10px; 
+    padding: 0px; 
 }
 
 .defualtVal{
