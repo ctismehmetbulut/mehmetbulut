@@ -67,6 +67,7 @@ a {
     /*LINKS BORDER:*/
     border: 2px solid var(--textColor);
     border-radius: 10px;
+    border-color: rgb(46, 46, 46);
 
     display: block; /*each link takes a whole line*/
     margin: 10px;
