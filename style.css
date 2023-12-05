@@ -90,6 +90,18 @@ a {
     margin-bottom: 5xp;
 }
 
+.sm {
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px; 
+  }
+  
+.sm a {
+    flex: 1; /* new style */
+    margin: 5px;
+    box-sizing: border-box; /* ensures padding and border are included in the width */
+}
+
 .defualtVal{
         /*LINKS TEXT*/
         color: #fff !important;
