@@ -74,8 +74,14 @@ a {
     padding: 0px; 
 }
 
-p{
+#userName{
     margin-top: 0;
+    margin-bottom: 0xp; 
+}
+
+#description{
+    margin-top: 0;
+    margin-bottom: 0xp; 
 }
 
 .profile_img{
