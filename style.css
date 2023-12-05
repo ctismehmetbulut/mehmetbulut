@@ -39,7 +39,7 @@ img {
     width: 130px;
     height: 130px;
     display: block;
-    margin: 5px auto;
+    margin: 10px auto;
     border-radius: 50%; /*round image*/
 }
 
