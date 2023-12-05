@@ -76,7 +76,8 @@ a {
 
 #userName{
     margin-top: 0;
-    margin-bottom: 0xp; 
+    margin-bottom: 0xp;
+    font-size: 20px;
 }
 
 #description{
