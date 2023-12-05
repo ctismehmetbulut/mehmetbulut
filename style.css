@@ -74,6 +74,15 @@ a {
     padding: 0px; 
 }
 
+p{
+    margin-top: 0;
+}
+
+.profile_img{
+    margin-top: 0;
+    margin-bottom: 5xp;
+}
+
 .defualtVal{
         /*LINKS TEXT*/
         color: #fff !important;
